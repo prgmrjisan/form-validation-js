@@ -1,0 +1,105 @@
+*{
+	margin: 0;
+	padding: 0;
+	/* width: 109%; */
+	border: none;
+	/* width: 103%; */
+}
+form {
+    width: 505px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background: #009688;
+    border-radius: 3rem;
+    /*height: 100vh;*/
+}
+
+legend {
+    font-size: 19px;
+    color: rebeccapurple;
+    /* left: 9%; */
+    margin-left: 6%;
+}
+
+div {
+    /* width: 380px; */
+    margin: 33px;
+}
+
+label {
+    /* width: 48px; */
+    color: blue;
+    width: 142px;
+    /* padding: 1px; */
+}
+
+input {
+    /* width: 90px; */
+    display: block;
+    font-size: 25px;
+    /* float: left; */
+}
+
+label {
+    font-size: 23px;
+    /* margin: 0px; */
+    /* padding-bottom: 0px; */
+    m,margin-bottom: 1;
+    margin-bottom: 1;
+    color: beige;
+}
+
+button {
+    width: auto;
+    /* padding: 43px; */
+    font-size: 20px;
+    /* border: 3px solid #000000; */
+    background: #ffffff;
+    color: white;
+    /* margin-top: 50px; */
+    color: black;
+    /* font-weight: 500; */
+    width: 78%;
+    width: 62%;
+    /* height: 52px; */
+    /* width: 93px; */
+    border-radius: 1rem;
+    /* margin-right: 29px; */
+    /* padding: 73px; */
+    /* margin: 19px; */
+    /* padding-bottom: 48px; */
+    /* padding: 10px; */
+    /* overflow: hidden; */
+    /* display: block; */
+    /* padding: 9px; */
+    padding: 9px;
+    /* width: 406%; */
+    /* margin-left: 22px; */
+    /* padding-left: 85px; */
+    /* padding-right: 71px; */
+}
+.btm-cls{
+    /* width: 190%; */
+    /* padding: 7px; */
+    /* padding-top: 0rem; */
+    /* padding-bottom: 1rem; */
+    /* padding: 7px; */
+    /* margin: 2px; */
+    width: cocver;
+    }
+
+
+input {
+    width: 418px;
+    padding: 8px;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    font-size: 27px;
+    border: 25%;
+    background: white;
+    border-radius: 1rem;
+}
+
+label.password_check {
+    margin-left: 44px;
+}
